@@ -50,11 +50,11 @@ python unfollower_checker.py
 ```
 
 ## Disclaimer
-1. This project is intended strictly for educational and personal use only.
-2. Instagram’s front-end is highly dynamic. HTML structures and class names may change frequently, which can break automation. Always inspect the current UI before use.
-3. This tool does not use the Instagram API, and operates by simulating real-user interactions via browser automation.
-4. This project does not store your credentials. All actions are performed within your local machine.
-5. Use this tool responsibly. Do not violate Instagram’s Terms of Service.
+### 1. This project is intended strictly for educational and personal use only.
+### 2. Instagram’s front-end is highly dynamic. HTML structures and class names may change frequently, which can break automation. Always inspect the current UI before use.
+### 3. This tool does not use the Instagram API, and operates by simulating real-user interactions via browser automation.
+### 4. This project does not store your credentials. All actions are performed within your local machine.
+### 5. Use this tool responsibly. Do not violate Instagram’s Terms of Service.
 
   
 
