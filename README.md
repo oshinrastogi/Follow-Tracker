@@ -28,7 +28,7 @@
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/oshinrastogi/Follow-Tracker.git
+git clone https://github.com/oshinrastogi/Follow-Tracker.git
 cd Follow-Tracker
 ```
 
