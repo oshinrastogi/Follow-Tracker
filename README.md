@@ -28,8 +28,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/socialtrackr.git
-cd socialtrackr
+https://github.com/oshinrastogi/Follow-Tracker.git
+cd Follow-Tracker
 ```
 
 ## Create Virtual Environment (Optional but Recommended)
